@@ -80,6 +80,8 @@ int main( void )
         setMode(RF69_MODE_TX);
         button=0;
       }      
+      delay_10us(10);   
+      setMode(RF69_MODE_STANDBY);
       enableInterrupts(); 
       halt();
       delay_10us(100);
