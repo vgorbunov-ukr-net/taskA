@@ -1,0 +1,15 @@
+stm8l15x_spi.pbi: \
+  C:\STM8Projects\task\Libraries\STM8L15x_StdPeriph_Driver\src\stm8l15x_spi.c \
+  C:\STM8Projects\task\Libraries\STM8L15x_StdPeriph_Driver\inc\stm8l15x_spi.h \
+  C:\STM8Projects\task\Libraries\STM8L15x_StdPeriph_Driver\inc/stm8l15x.h \
+  C:\STM8Projects\task\Libraries\STM8L15x_StdPeriph_Driver\inc/stm8l15x_conf.h \
+  C:\STM8Projects\task\Libraries\STM8L15x_StdPeriph_Driver\inc/stm8l15x_clk.h \
+  C:\STM8Projects\task\Libraries\STM8L15x_StdPeriph_Driver\inc/stm8l15x_exti.h \
+  C:\STM8Projects\task\Libraries\STM8L15x_StdPeriph_Driver\inc/stm8l15x_gpio.h \
+  C:\STM8Projects\task\Libraries\STM8L15x_StdPeriph_Driver\inc/stm8l15x_itc.h \
+  C:\STM8Projects\task\Libraries\STM8L15x_StdPeriph_Driver\inc/stm8l15x_it.h \
+  C:\STM8Projects\task\Libraries\STM8L15x_StdPeriph_Driver\inc/stm8l15x_spi.h \
+  C:\STM8Projects\task\Libraries\RFM69\RFM69.h \
+  C:\STM8Projects\task\Libraries\STM8L15x_StdPeriph_Driver\inc\stm8l15x.h \
+  C:\STM8Projects\task\Libraries\RFM69/RFM69registers.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\intrinsics.h

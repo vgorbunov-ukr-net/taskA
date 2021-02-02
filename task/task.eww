@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\..\..\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\stm8\examples\STM8L\STM8L-Discovery\Project\Discover\Discover.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\..\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\stm8\examples\STM8L\STM8L101K3T-Board\STM8L101K3T-Board.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\..\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\stm8\examples\STM8L\STM8L152C6-Board\STM8L152C6-Board.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\task.ewp</path>
+    </project>
+    <batchBuild />
+</workspace>
